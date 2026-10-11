@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Omar Farouk
 
-<!--
-**omarfarouk01/omarfarouk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Front-End Web Developer | HTML, CSS & JavaScript
 
-Here are some ideas to get you started:
+I'm an aspiring Front-End Web Developer learning to build responsive and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning:** HTML, CSS and JavaScript.
+
+🛠️ **My Projects:**
+- 📝 [Todo App](https://omarfarouk01.github.io/Todo-app/)
+- 🧮 [Calculator App](https://omarfarouk01.github.io/Calculator-App/)
+
+### 💡 Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+### 📫 Contact Me
+- **Email:** Omarfaroukadam08@gmail.com
+- **GitHub:** [@omarfarouk01](https://github.com/omarfarouk01)
+
+---
+⭐ Thanks for visiting my profile!
