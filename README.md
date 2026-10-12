@@ -22,3 +22,15 @@ I'm an aspiring Front-End Web Developer learning to build responsive and user-fr
 
 ---
 ⭐ Thanks for visiting my profile!
+---
+
+### 🌐 My Portfolio Website
+
+Visit my portfolio to see my projects and web development skills:
+
+[View My Portfolio](https://omarfarouk01.github.io/Portfolio-Website/)
+
+### 📫 Contact Me
+
+- **GitHub:** [omarfarouk01](https://github.com/omarfarouk01)
+- **Email:** Omarfaroukadam08@gmail.com
