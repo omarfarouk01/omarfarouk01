@@ -21,18 +21,18 @@ I’m continuously improving my coding skills and building projects to gain prac
 1. Todo App
 
 * A simple task management application.
-* * [View Live Project](https://omarfarouk01.github.io/Todo-app/)
+* [View Live Project](https://omarfarouk01.github.io/Todo-app/)
 
 2. Calculator App
 
 * A functional calculator built with HTML, CSS and JavaScript.
-* * [View Live Project](https://omarfarouk01.github.io/Calculator-App/)
+* [View Live Project](https://omarfarouk01.github.io/Calculator-App/)
 
 🌐 Connect With Me
 
 * [GitHub](https://github.com/omarfarouk01)
 * [LinkedIn](https://www.linkedin.com/in/umar-adam-63b719286)
-
+* [My Portfolio Website](https://omarfarouk01.github.io/Portfolio-Website/)
 🎯 My Goal
 
 To become a professional Front-End Developer by continuously learning, building projects and solving real-world problems.
