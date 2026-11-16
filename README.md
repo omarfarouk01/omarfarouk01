@@ -21,12 +21,12 @@ I’m continuously improving my coding skills and building projects to gain prac
 1. Todo App
 
 * A simple task management application.
-* View Project
+* * [View Live Project](https://omarfarouk01.github.io/Todo-app/)
 
 2. Calculator App
 
 * A functional calculator built with HTML, CSS and JavaScript.
-* View Project
+* * [View Live Project](https://omarfarouk01.github.io/Calculator-App/)
 
 🌐 Connect With Me
 
