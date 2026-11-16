@@ -30,8 +30,8 @@ I’m continuously improving my coding skills and building projects to gain prac
 
 🌐 Connect With Me
 
-* GitHub
-* LinkedIn
+* [GitHub](https://github.com/omarfarouk01)
+* [LinkedIn](https://www.linkedin.com/in/umar-adam-63b719286)
 
 🎯 My Goal
 
