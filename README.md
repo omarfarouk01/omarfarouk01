@@ -1,36 +1,38 @@
-# Hi there 👋, I'm Omar Farouk
+Hi, I’m Omar Farouk 👋
 
-### 💻 Front-End Web Developer | HTML, CSS & JavaScript
+Front-End Developer | HTML | CSS | JavaScript
 
-I'm an aspiring Front-End Web Developer learning to build responsive and user-friendly websites.
+Welcome to my GitHub profile!
 
-🌱 **Currently learning:** HTML, CSS and JavaScript.
+I’m an aspiring Front-End Developer passionate about building responsive, user-friendly websites and web applications.
 
-🛠️ **My Projects:**
-- 📝 [Todo App](https://omarfarouk01.github.io/Todo-app/)
-- 🧮 [Calculator App](https://omarfarouk01.github.io/Calculator-App/)
+I’m continuously improving my coding skills and building projects to gain practical experience.
 
-### 💡 Skills
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+🚀 Skills & Technologies
 
-### 📫 Contact Me
-- **Email:** Omarfaroukadam08@gmail.com
-- **GitHub:** [@omarfarouk01](https://github.com/omarfarouk01)
+* HTML5
+* CSS3
+* JavaScript
+* Git & GitHub
+* Responsive Web Design
 
----
-⭐ Thanks for visiting my profile!
----
+💻 My Projects
 
-### 🌐 My Portfolio Website
+1. Todo App
 
-Visit my portfolio to see my projects and web development skills:
+* A simple task management application.
+* View Project
 
-[View My Portfolio](https://omarfarouk01.github.io/Portfolio-Website/)
+2. Calculator App
 
-### 📫 Contact Me
+* A functional calculator built with HTML, CSS and JavaScript.
+* View Project
 
-- **GitHub:** [omarfarouk01](https://github.com/omarfarouk01)
-- **Email:** Omarfaroukadam08@gmail.com
+🌐 Connect With Me
+
+* GitHub
+* LinkedIn
+
+🎯 My Goal
+
+To become a professional Front-End Developer by continuously learning, building projects and solving real-world problems.
